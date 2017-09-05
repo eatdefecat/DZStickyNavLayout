@@ -1,0 +1,14 @@
+<com.android.dz.pullrecyclerview.view.DZStickyNavLayouts xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/head_home_layout">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/head_home_recyclerview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#ffffff"
+        android:overScrollMode="never"
+        android:scrollbars="none" />
+
+</com.android.dz.pullrecyclerview.view.DZStickyNavLayouts>
